@@ -1,3 +1,6 @@
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
 # SP2-Speech-Corpus
 ##Speech Corpus for Cross-Lingual Prosody Transfer
 
@@ -6,18 +9,19 @@ This is a multilingual speech corpus containing prosodically rich sentences desi
 ##Contents
 
 The corpus contains recordings of 50 pairs of sentences comprising a sentence with predetermined emphasis and one without. The sentences are divided in 5 groups according to the type of emphasis:
-    A. Emphasis on one word
-    B. Emphasis early on in the sentence
-    C. Contrastive emphasis
-    D. Contrastive emphasis in a question
-    E. Emphasis as a result of a semantic focus on a relatively large constituent
+    1. Emphasis on one word
+    2. Emphasis early on in the sentence
+    3. Contrastive emphasis
+    4. Contrastive emphasis in a question
+    5. Emphasis as a result of a semantic focus on a relatively large constituent
 
 
 In the initial commit there are recordings from 8 speakers in 6 languages: English, French, German, Hungarian, Serbian, and Macedonian. Contributions are welcome.
 
 ##References
 
-The SP2 Speech Corpus is presented in
+The SP2 Speech Corpus is presented in:
+
 Sečujski, Milan, Branislav Gerazov, Tamás Gábor Csapó, Vlado Delić, Philip N. Garner, Aleksandar Gjoreski, David Guennec et al. "Design of a Speech Corpus for Research on Cross-Lingual Prosody Transfer." In International Conference on Speech and Computer, pp. 199-206. Springer International Publishing, 2016.
 
 ```
