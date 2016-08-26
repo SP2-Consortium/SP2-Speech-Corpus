@@ -1,6 +1,3 @@
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
 # SP2-Speech-Corpus
 ##Speech Corpus for Cross-Lingual Prosody Transfer
 
@@ -9,12 +6,11 @@ This is a multilingual speech corpus containing prosodically rich sentences desi
 ##Contents
 
 The corpus contains recordings of 50 pairs of sentences comprising a sentence with predetermined emphasis and one without. The sentences are divided in 5 groups according to the type of emphasis:
-    1. Emphasis on one word
-    2. Emphasis early on in the sentence
-    3. Contrastive emphasis
-    4. Contrastive emphasis in a question
-    5. Emphasis as a result of a semantic focus on a relatively large constituent
-
+*  A. Emphasis on one word,
+* B. Emphasis early on in the sentence,
+* C. Contrastive emphasis,
+* D. Contrastive emphasis in a question, and
+* E. Emphasis as a result of a semantic focus on a relatively large constituent.
 
 In the initial commit there are recordings from 8 speakers in 6 languages: English, French, German, Hungarian, Serbian, and Macedonian. Contributions are welcome.
 
@@ -22,14 +18,15 @@ In the initial commit there are recordings from 8 speakers in 6 languages: Engli
 
 The SP2 Speech Corpus is presented in:
 
-Sečujski, Milan, Branislav Gerazov, Tamás Gábor Csapó, Vlado Delić, Philip N. Garner, Aleksandar Gjoreski, David Guennec et al. "Design of a Speech Corpus for Research on Cross-Lingual Prosody Transfer." In International Conference on Speech and Computer, pp. 199-206. Springer International Publishing, 2016.
+Sečujski, Milan, Branislav Gerazov, Tamás Gábor Csapó, Vlado Delić, Philip N. Garner, Aleksandar Gjoreski, David Guennec, Zoran Ivanovski, Aleksandar Melov, Géza Németh, Ana Stojkovic, and György Szaszák, "Design of a Speech Corpus for Research on Cross-Lingual Prosody Transfer." In International Conference on Speech and Computer, pp. 199-206. Springer International Publishing, 2016.
 
 ```
 @inproceedings{sevcujski2016design,
   title={Design of a Speech Corpus for Research on Cross-Lingual Prosody Transfer},
-  author={Se{\v{c}}ujski, Milan and Gerazov, Branislav and Csap{\'o}, Tam{\'a}s G{\'a}bor and Deli{\'c}, Vlado
-  and Garner, Philip N and Gjoreski, Aleksandar and Guennec, David and Ivanovski, Zoran and Melov, Aleksandar 
-  and N{\'e}meth, G{\'e}za and others},
+  author={Se{\v{c}}ujski, Milan and Gerazov, Branislav and Csap{\'o}, Tam{\'a}s G{\'a}bor and 
+  Deli{\'c}, Vlado and Garner, Philip N and Gjoreski, Aleksandar and Guennec, David and 
+  Ivanovski, Zoran and Melov, Aleksandar and N{\'e}meth, G{\'e}za and Stojkovic, Ana and
+  Szasz\'ak, Gy\"orgy},
   booktitle={International Conference on Speech and Computer},
   pages={199--206},
   year={2016},
