@@ -24,9 +24,9 @@ Sečujski, Milan, Branislav Gerazov, Tamás Gábor Csapó, Vlado Delić, Philip 
 @inproceedings{sevcujski2016design,
   title={Design of a Speech Corpus for Research on Cross-Lingual Prosody Transfer},
   author={Se{\v{c}}ujski, Milan and Gerazov, Branislav and Csap{\'o}, Tam{\'a}s G{\'a}bor and 
-  Deli{\'c}, Vlado and Garner, Philip N and Gjoreski, Aleksandar and Guennec, David and 
-  Ivanovski, Zoran and Melov, Aleksandar and N{\'e}meth, G{\'e}za and Stojkovic, Ana and
-  Szasz\'ak, Gy\"orgy},
+    Deli{\'c}, Vlado and Garner, Philip N and Gjoreski, Aleksandar and Guennec, David and 
+    Ivanovski, Zoran and Melov, Aleksandar and N{\'e}meth, G{\'e}za and Stojkovic, Ana and
+    Szasz\'ak, Gy\"orgy},
   booktitle={International Conference on Speech and Computer},
   pages={199--206},
   year={2016},
