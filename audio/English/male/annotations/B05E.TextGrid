@@ -1,0 +1,308 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.657 
+tiers? <exists> 
+size = 8 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "emphasis" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9252000071023652 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9252000071023652 
+            xmax = 1.3206679848497611 
+            text = "+" 
+        intervals [3]:
+            xmin = 1.3206679848497611 
+            xmax = 1.495118 
+            text = "" 
+        intervals [4]:
+            xmin = 1.495118 
+            xmax = 1.691698 
+            text = "" 
+        intervals [5]:
+            xmin = 1.691698 
+            xmax = 1.7754970812548858 
+            text = "" 
+        intervals [6]:
+            xmin = 1.7754970812548858 
+            xmax = 1.9859309677264931 
+            text = "" 
+        intervals [7]:
+            xmin = 1.9859309677264931 
+            xmax = 2.084561672065115 
+            text = "" 
+        intervals [8]:
+            xmin = 2.084561672065115 
+            xmax = 2.53889874303699 
+            text = "" 
+        intervals [9]:
+            xmin = 2.53889874303699 
+            xmax = 3.657 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "contrast" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.657 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9252000071023652 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9252000071023652 
+            xmax = 1.3206679848497611 
+            text = "Money" 
+        intervals [3]:
+            xmin = 1.3206679848497611 
+            xmax = 1.495118 
+            text = "is" 
+        intervals [4]:
+            xmin = 1.495118 
+            xmax = 1.691698 
+            text = "what" 
+        intervals [5]:
+            xmin = 1.691698 
+            xmax = 1.7754970812548858 
+            text = "I" 
+        intervals [6]:
+            xmin = 1.7754970812548858 
+            xmax = 1.9859309677264931 
+            text = "like" 
+        intervals [7]:
+            xmin = 1.9859309677264931 
+            xmax = 2.084561672065115 
+            text = "the" 
+        intervals [8]:
+            xmin = 2.084561672065115 
+            xmax = 2.53889874303699 
+            text = "most" 
+        intervals [9]:
+            xmin = 2.53889874303699 
+            xmax = 3.657 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9252000071023652 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9252000071023652 
+            xmax = 1.0938014235103375 
+            text = "" 
+        intervals [3]:
+            xmin = 1.0938014235103375 
+            xmax = 1.3206679848497611 
+            text = "" 
+        intervals [4]:
+            xmin = 1.3206679848497611 
+            xmax = 1.495118 
+            text = "" 
+        intervals [5]:
+            xmin = 1.495118 
+            xmax = 1.691698 
+            text = "" 
+        intervals [6]:
+            xmin = 1.691698 
+            xmax = 1.7754970812548858 
+            text = "" 
+        intervals [7]:
+            xmin = 1.7754970812548858 
+            xmax = 1.9859309677264931 
+            text = "" 
+        intervals [8]:
+            xmin = 1.9859309677264931 
+            xmax = 2.084561672065115 
+            text = "" 
+        intervals [9]:
+            xmin = 2.084561672065115 
+            xmax = 2.53889874303699 
+            text = "" 
+        intervals [10]:
+            xmin = 2.53889874303699 
+            xmax = 3.657 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "lexstress" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9252000071023652 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9252000071023652 
+            xmax = 1.0938014235103375 
+            text = "+" 
+        intervals [3]:
+            xmin = 1.0938014235103375 
+            xmax = 1.3206679848497611 
+            text = "" 
+        intervals [4]:
+            xmin = 1.3206679848497611 
+            xmax = 1.495118 
+            text = "+" 
+        intervals [5]:
+            xmin = 1.495118 
+            xmax = 1.691698 
+            text = "+" 
+        intervals [6]:
+            xmin = 1.691698 
+            xmax = 1.7754970812548858 
+            text = "+" 
+        intervals [7]:
+            xmin = 1.7754970812548858 
+            xmax = 1.9859309677264931 
+            text = "+" 
+        intervals [8]:
+            xmin = 1.9859309677264931 
+            xmax = 2.084561672065115 
+            text = "" 
+        intervals [9]:
+            xmin = 2.084561672065115 
+            xmax = 2.53889874303699 
+            text = "+" 
+        intervals [10]:
+            xmin = 2.53889874303699 
+            xmax = 3.657 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "lextone" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.657 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9252000071023652 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9252000071023652 
+            xmax = 1.0225631313023058 
+            text = "m" 
+        intervals [3]:
+            xmin = 1.0225631313023058 
+            xmax = 1.0938014235103375 
+            text = "V" 
+        intervals [4]:
+            xmin = 1.0938014235103375 
+            xmax = 1.1573678996344272 
+            text = "n" 
+        intervals [5]:
+            xmin = 1.1573678996344272 
+            xmax = 1.3206679848497611 
+            text = "i" 
+        intervals [6]:
+            xmin = 1.3206679848497611 
+            xmax = 1.404433 
+            text = "I" 
+        intervals [7]:
+            xmin = 1.404433 
+            xmax = 1.495118 
+            text = "z" 
+        intervals [8]:
+            xmin = 1.495118 
+            xmax = 1.540979 
+            text = "w" 
+        intervals [9]:
+            xmin = 1.540979 
+            xmax = 1.606575 
+            text = "Q" 
+        intervals [10]:
+            xmin = 1.606575 
+            xmax = 1.691698 
+            text = "t" 
+        intervals [11]:
+            xmin = 1.691698 
+            xmax = 1.7754970812548858 
+            text = "aI" 
+        intervals [12]:
+            xmin = 1.7754970812548858 
+            xmax = 1.843655 
+            text = "l" 
+        intervals [13]:
+            xmin = 1.843655 
+            xmax = 1.951906 
+            text = "aI" 
+        intervals [14]:
+            xmin = 1.951906 
+            xmax = 1.9859309677264931 
+            text = "k" 
+        intervals [15]:
+            xmin = 1.9859309677264931 
+            xmax = 2.031135557723359 
+            text = "-" 
+        intervals [16]:
+            xmin = 2.031135557723359 
+            xmax = 2.05532 
+            text = "D" 
+        intervals [17]:
+            xmin = 2.05532 
+            xmax = 2.084561672065115 
+            text = "@" 
+        intervals [18]:
+            xmin = 2.084561672065115 
+            xmax = 2.164315 
+            text = "m" 
+        intervals [19]:
+            xmin = 2.164315 
+            xmax = 2.344408 
+            text = "@U" 
+        intervals [20]:
+            xmin = 2.344408 
+            xmax = 2.4558484497869344 
+            text = "s" 
+        intervals [21]:
+            xmin = 2.4558484497869344 
+            xmax = 2.53889874303699 
+            text = "t" 
+        intervals [22]:
+            xmin = 2.53889874303699 
+            xmax = 3.657 
+            text = "" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "breaks" 
+        xmin = 0 
+        xmax = 3.657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.657 
+            text = "" 

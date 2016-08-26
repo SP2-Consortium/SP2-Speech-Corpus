@@ -1,0 +1,48 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.998354166666667 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "emphasis" 
+        xmin = 0 
+        xmax = 4.998354166666667 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.833350870380006 
+            text = "" 
+        intervals [2]:
+            xmin = 2.833350870380006 
+            xmax = 3.448807629257332 
+            text = "(+)" 
+        intervals [3]:
+            xmin = 3.448807629257332 
+            xmax = 4.998354166666667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "contrast" 
+        xmin = 0 
+        xmax = 4.998354166666667 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.998354166666667 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "breaks" 
+        xmin = 0 
+        xmax = 4.998354166666667 
+        points: size = 2 
+        points [1]:
+            number = 1.0632665243866986 
+            mark = "B" 
+        points [2]:
+            number = 2.2948262063623464 
+            mark = "B" 

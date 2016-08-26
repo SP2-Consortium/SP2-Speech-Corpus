@@ -1,0 +1,77 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0725 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "emphasis" 
+        xmin = 0 
+        xmax = 5.0725 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.704281297067171 
+            text = "" 
+        intervals [2]:
+            xmin = 1.704281297067171 
+            xmax = 2.284951535477767 
+            text = "+" 
+        intervals [3]:
+            xmin = 2.284951535477767 
+            xmax = 3.1379363914821665 
+            text = "" 
+        intervals [4]:
+            xmin = 3.1379363914821665 
+            xmax = 3.3957215255782214 
+            text = "+" 
+        intervals [5]:
+            xmin = 3.3957215255782214 
+            xmax = 3.679361215896299 
+            text = "+" 
+        intervals [6]:
+            xmin = 3.679361215896299 
+            xmax = 5.0725 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "contrast" 
+        xmin = 0 
+        xmax = 5.0725 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.704281297067171 
+            text = "" 
+        intervals [2]:
+            xmin = 1.704281297067171 
+            xmax = 2.284951535477767 
+            text = "1" 
+        intervals [3]:
+            xmin = 2.284951535477767 
+            xmax = 3.1379363914821665 
+            text = "" 
+        intervals [4]:
+            xmin = 3.1379363914821665 
+            xmax = 3.3957215255782214 
+            text = "2" 
+        intervals [5]:
+            xmin = 3.3957215255782214 
+            xmax = 3.679361215896299 
+            text = "2" 
+        intervals [6]:
+            xmin = 3.679361215896299 
+            xmax = 5.0725 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "breaks" 
+        xmin = 0 
+        xmax = 5.0725 
+        points: size = 1 
+        points [1]:
+            number = 2.284951535477767 
+            mark = "B" 

@@ -1,0 +1,81 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.440416666666667 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "emphasis" 
+        xmin = 0 
+        xmax = 4.440416666666667 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0592811325990141 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0592811325990141 
+            xmax = 1.380714367146476 
+            text = "(+)" 
+        intervals [3]:
+            xmin = 1.380714367146476 
+            xmax = 1.8421772202775148 
+            text = "" 
+        intervals [4]:
+            xmin = 1.8421772202775148 
+            xmax = 2.9324440500482623 
+            text = "" 
+        intervals [5]:
+            xmin = 2.9324440500482623 
+            xmax = 3.1983472905875234 
+            text = "(+)" 
+        intervals [6]:
+            xmin = 3.1983472905875234 
+            xmax = 3.7244159084898807 
+            text = "(+)" 
+        intervals [7]:
+            xmin = 3.7244159084898807 
+            xmax = 4.440416666666667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "contrast" 
+        xmin = 0 
+        xmax = 4.440416666666667 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0592811325990141 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0592811325990141 
+            xmax = 1.380714367146476 
+            text = "1" 
+        intervals [3]:
+            xmin = 1.380714367146476 
+            xmax = 2.9324440500482623 
+            text = "" 
+        intervals [4]:
+            xmin = 2.9324440500482623 
+            xmax = 3.1983472905875234 
+            text = "2" 
+        intervals [5]:
+            xmin = 3.1983472905875234 
+            xmax = 3.7244159084898807 
+            text = "2" 
+        intervals [6]:
+            xmin = 3.7244159084898807 
+            xmax = 4.440416666666667 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "breaks" 
+        xmin = 0 
+        xmax = 4.440416666666667 
+        points: size = 1 
+        points [1]:
+            number = 1.8421772202775148 
+            mark = "B" 
